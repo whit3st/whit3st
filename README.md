@@ -19,6 +19,6 @@
 
 **Styling**
 
-[![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
 
 *Also Zustand, Framer Motion, Context API, RTK etc. are in my arsenal.*
